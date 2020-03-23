@@ -3,7 +3,7 @@
 
 
 
-udo apt-get update
+sudo apt-get update
 
 echo 'instalando  curl' 
 sudo apt install curl -y
