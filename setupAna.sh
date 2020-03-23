@@ -18,7 +18,6 @@ git config --global user.name "$git_config_user_name"
 clear 
 
 echo "Qual email você usa no Git user.email"
-echo "For example, mine will be \"erick.workspace@gmail.com\""
 read git_config_user_email
 git config --global user.email $git_config_user_email
 clear
